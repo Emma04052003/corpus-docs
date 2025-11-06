@@ -27,4 +27,4 @@ Yes, submit an email to the administrator of the plateform.
 
 ## Where are my documents stored?
 
-If you use the service from ULiège, your documents are stored in the University Data Center manager by SEGI.
+If you use the service from ULiège, your documents are stored in the University Data Center managed by SEGI.
